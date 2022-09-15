@@ -20,8 +20,8 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME": "skip",
+	"BUTTON_NAME": "START",
 
-	"BUTTON_URL": "https://mail.google.com/"
+	"BUTTON_URL": "https://www.bloomingdales.com/"
 
 }
