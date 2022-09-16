@@ -1,7 +1,7 @@
 {
 
-	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+	"admob_banner": "ca-app-pub-6666180860687847/7043668616",
+	"admob_inter": "ca-app-pub-6666180860687847/4729879353",
 
 	"APP_KEY": "119bd88ed",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -20,7 +20,7 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME": "START",
+	"BUTTON_NAME": "Start Shopping ",
 
 	"BUTTON_URL": "https://www.bloomingdales.com/"
 
